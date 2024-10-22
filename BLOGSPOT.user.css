@@ -1,0 +1,18 @@
+/*
+==UserCSS==
+@name           BLOGSPOT
+@namespace      https://github.com/RaRodRos
+@match          https://*.blogspot.com/*
+@version        1.0
+@updateURL      https://raw.githubusercontent.com/RaRodRos/userscripts/refs/heads/master/BLOGSPOT.user.css
+@run-at         document-start
+==/UserCSS==
+*/
+
+body {
+  background-image: none;
+}
+
+a {
+  font-weight: bolder;
+}
